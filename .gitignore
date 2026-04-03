@@ -1,0 +1,14 @@
+# Build artifacts
+code/build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
